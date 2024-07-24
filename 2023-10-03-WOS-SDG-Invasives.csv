@@ -1,0 +1,257 @@
+from,to,n
+01 No Poverty,01 No Poverty,203
+01 No Poverty,02 Zero Hunger,14
+01 No Poverty,03 Good Health And Well Being,3
+01 No Poverty,04 Quality Education,0
+01 No Poverty,05 Gender Equality,0
+01 No Poverty,06 Clean Water and Sanitation,0
+01 No Poverty,07 Affordable And Clean Energy,0
+01 No Poverty,08 Decent Work And Economic Growth,1
+01 No Poverty,09 Industry Innovation And Infrastructure,7
+01 No Poverty,10 Reduced Inequality,5
+01 No Poverty,11 Sustainable Cities and Communities,0
+01 No Poverty,12 Responsible Consumption And Production,0
+01 No Poverty,13 Climate Action,5
+01 No Poverty,14 Life Below Water,0
+01 No Poverty,15 Life on Land,166
+01 No Poverty,16 Peace And Justice Strong Institutions,0
+02 Zero Hunger,01 No Poverty,14
+02 Zero Hunger,02 Zero Hunger,6175
+02 Zero Hunger,03 Good Health And Well Being,93
+02 Zero Hunger,04 Quality Education,0
+02 Zero Hunger,05 Gender Equality,0
+02 Zero Hunger,06 Clean Water and Sanitation,2
+02 Zero Hunger,07 Affordable And Clean Energy,0
+02 Zero Hunger,08 Decent Work And Economic Growth,0
+02 Zero Hunger,09 Industry Innovation And Infrastructure,0
+02 Zero Hunger,10 Reduced Inequality,0
+02 Zero Hunger,11 Sustainable Cities and Communities,0
+02 Zero Hunger,12 Responsible Consumption And Production,63
+02 Zero Hunger,13 Climate Action,4272
+02 Zero Hunger,14 Life Below Water,0
+02 Zero Hunger,15 Life on Land,3979
+02 Zero Hunger,16 Peace And Justice Strong Institutions,0
+03 Good Health And Well Being,01 No Poverty,3
+03 Good Health And Well Being,02 Zero Hunger,93
+03 Good Health And Well Being,03 Good Health And Well Being,4786
+03 Good Health And Well Being,04 Quality Education,0
+03 Good Health And Well Being,05 Gender Equality,11
+03 Good Health And Well Being,06 Clean Water and Sanitation,12
+03 Good Health And Well Being,07 Affordable And Clean Energy,0
+03 Good Health And Well Being,08 Decent Work And Economic Growth,0
+03 Good Health And Well Being,09 Industry Innovation And Infrastructure,4
+03 Good Health And Well Being,10 Reduced Inequality,0
+03 Good Health And Well Being,11 Sustainable Cities and Communities,6
+03 Good Health And Well Being,12 Responsible Consumption And Production,1
+03 Good Health And Well Being,13 Climate Action,6
+03 Good Health And Well Being,14 Life Below Water,0
+03 Good Health And Well Being,15 Life on Land,0
+03 Good Health And Well Being,16 Peace And Justice Strong Institutions,0
+04 Quality Education,01 No Poverty,0
+04 Quality Education,02 Zero Hunger,0
+04 Quality Education,03 Good Health And Well Being,0
+04 Quality Education,04 Quality Education,57
+04 Quality Education,05 Gender Equality,0
+04 Quality Education,06 Clean Water and Sanitation,0
+04 Quality Education,07 Affordable And Clean Energy,0
+04 Quality Education,08 Decent Work And Economic Growth,0
+04 Quality Education,09 Industry Innovation And Infrastructure,0
+04 Quality Education,10 Reduced Inequality,0
+04 Quality Education,11 Sustainable Cities and Communities,0
+04 Quality Education,12 Responsible Consumption And Production,0
+04 Quality Education,13 Climate Action,0
+04 Quality Education,14 Life Below Water,0
+04 Quality Education,15 Life on Land,0
+04 Quality Education,16 Peace And Justice Strong Institutions,0
+05 Gender Equality,01 No Poverty,0
+05 Gender Equality,02 Zero Hunger,0
+05 Gender Equality,03 Good Health And Well Being,11
+05 Gender Equality,04 Quality Education,0
+05 Gender Equality,05 Gender Equality,55
+05 Gender Equality,06 Clean Water and Sanitation,0
+05 Gender Equality,07 Affordable And Clean Energy,0
+05 Gender Equality,08 Decent Work And Economic Growth,0
+05 Gender Equality,09 Industry Innovation And Infrastructure,0
+05 Gender Equality,10 Reduced Inequality,0
+05 Gender Equality,11 Sustainable Cities and Communities,0
+05 Gender Equality,12 Responsible Consumption And Production,0
+05 Gender Equality,13 Climate Action,0
+05 Gender Equality,14 Life Below Water,0
+05 Gender Equality,15 Life on Land,0
+05 Gender Equality,16 Peace And Justice Strong Institutions,0
+06 Clean Water and Sanitation,01 No Poverty,0
+06 Clean Water and Sanitation,02 Zero Hunger,2
+06 Clean Water and Sanitation,03 Good Health And Well Being,12
+06 Clean Water and Sanitation,04 Quality Education,0
+06 Clean Water and Sanitation,05 Gender Equality,0
+06 Clean Water and Sanitation,06 Clean Water and Sanitation,1650
+06 Clean Water and Sanitation,07 Affordable And Clean Energy,1
+06 Clean Water and Sanitation,08 Decent Work And Economic Growth,0
+06 Clean Water and Sanitation,09 Industry Innovation And Infrastructure,0
+06 Clean Water and Sanitation,10 Reduced Inequality,0
+06 Clean Water and Sanitation,11 Sustainable Cities and Communities,70
+06 Clean Water and Sanitation,12 Responsible Consumption And Production,0
+06 Clean Water and Sanitation,13 Climate Action,1243
+06 Clean Water and Sanitation,14 Life Below Water,0
+06 Clean Water and Sanitation,15 Life on Land,1069
+06 Clean Water and Sanitation,16 Peace And Justice Strong Institutions,0
+07 Affordable And Clean Energy,01 No Poverty,0
+07 Affordable And Clean Energy,02 Zero Hunger,0
+07 Affordable And Clean Energy,03 Good Health And Well Being,0
+07 Affordable And Clean Energy,04 Quality Education,0
+07 Affordable And Clean Energy,05 Gender Equality,0
+07 Affordable And Clean Energy,06 Clean Water and Sanitation,1
+07 Affordable And Clean Energy,07 Affordable And Clean Energy,260
+07 Affordable And Clean Energy,08 Decent Work And Economic Growth,0
+07 Affordable And Clean Energy,09 Industry Innovation And Infrastructure,0
+07 Affordable And Clean Energy,10 Reduced Inequality,0
+07 Affordable And Clean Energy,11 Sustainable Cities and Communities,0
+07 Affordable And Clean Energy,12 Responsible Consumption And Production,33
+07 Affordable And Clean Energy,13 Climate Action,115
+07 Affordable And Clean Energy,14 Life Below Water,0
+07 Affordable And Clean Energy,15 Life on Land,0
+07 Affordable And Clean Energy,16 Peace And Justice Strong Institutions,0
+08 Decent Work And Economic Growth,01 No Poverty,1
+08 Decent Work And Economic Growth,02 Zero Hunger,0
+08 Decent Work And Economic Growth,03 Good Health And Well Being,0
+08 Decent Work And Economic Growth,04 Quality Education,0
+08 Decent Work And Economic Growth,05 Gender Equality,0
+08 Decent Work And Economic Growth,06 Clean Water and Sanitation,0
+08 Decent Work And Economic Growth,07 Affordable And Clean Energy,0
+08 Decent Work And Economic Growth,08 Decent Work And Economic Growth,12
+08 Decent Work And Economic Growth,09 Industry Innovation And Infrastructure,6
+08 Decent Work And Economic Growth,10 Reduced Inequality,1
+08 Decent Work And Economic Growth,11 Sustainable Cities and Communities,0
+08 Decent Work And Economic Growth,12 Responsible Consumption And Production,0
+08 Decent Work And Economic Growth,13 Climate Action,0
+08 Decent Work And Economic Growth,14 Life Below Water,0
+08 Decent Work And Economic Growth,15 Life on Land,0
+08 Decent Work And Economic Growth,16 Peace And Justice Strong Institutions,0
+09 Industry Innovation And Infrastructure,01 No Poverty,7
+09 Industry Innovation And Infrastructure,02 Zero Hunger,0
+09 Industry Innovation And Infrastructure,03 Good Health And Well Being,4
+09 Industry Innovation And Infrastructure,04 Quality Education,0
+09 Industry Innovation And Infrastructure,05 Gender Equality,0
+09 Industry Innovation And Infrastructure,06 Clean Water and Sanitation,0
+09 Industry Innovation And Infrastructure,07 Affordable And Clean Energy,0
+09 Industry Innovation And Infrastructure,08 Decent Work And Economic Growth,6
+09 Industry Innovation And Infrastructure,09 Industry Innovation And Infrastructure,103
+09 Industry Innovation And Infrastructure,10 Reduced Inequality,0
+09 Industry Innovation And Infrastructure,11 Sustainable Cities and Communities,0
+09 Industry Innovation And Infrastructure,12 Responsible Consumption And Production,0
+09 Industry Innovation And Infrastructure,13 Climate Action,0
+09 Industry Innovation And Infrastructure,14 Life Below Water,0
+09 Industry Innovation And Infrastructure,15 Life on Land,0
+09 Industry Innovation And Infrastructure,16 Peace And Justice Strong Institutions,0
+10 Reduced Inequality,01 No Poverty,5
+10 Reduced Inequality,02 Zero Hunger,0
+10 Reduced Inequality,03 Good Health And Well Being,0
+10 Reduced Inequality,04 Quality Education,0
+10 Reduced Inequality,05 Gender Equality,0
+10 Reduced Inequality,06 Clean Water and Sanitation,0
+10 Reduced Inequality,07 Affordable And Clean Energy,0
+10 Reduced Inequality,08 Decent Work And Economic Growth,1
+10 Reduced Inequality,09 Industry Innovation And Infrastructure,0
+10 Reduced Inequality,10 Reduced Inequality,18
+10 Reduced Inequality,11 Sustainable Cities and Communities,0
+10 Reduced Inequality,12 Responsible Consumption And Production,0
+10 Reduced Inequality,13 Climate Action,0
+10 Reduced Inequality,14 Life Below Water,0
+10 Reduced Inequality,15 Life on Land,0
+10 Reduced Inequality,16 Peace And Justice Strong Institutions,0
+11 Sustainable Cities and Communities,01 No Poverty,0
+11 Sustainable Cities and Communities,02 Zero Hunger,0
+11 Sustainable Cities and Communities,03 Good Health And Well Being,6
+11 Sustainable Cities and Communities,04 Quality Education,0
+11 Sustainable Cities and Communities,05 Gender Equality,0
+11 Sustainable Cities and Communities,06 Clean Water and Sanitation,70
+11 Sustainable Cities and Communities,07 Affordable And Clean Energy,0
+11 Sustainable Cities and Communities,08 Decent Work And Economic Growth,0
+11 Sustainable Cities and Communities,09 Industry Innovation And Infrastructure,0
+11 Sustainable Cities and Communities,10 Reduced Inequality,0
+11 Sustainable Cities and Communities,11 Sustainable Cities and Communities,761
+11 Sustainable Cities and Communities,12 Responsible Consumption And Production,8
+11 Sustainable Cities and Communities,13 Climate Action,38
+11 Sustainable Cities and Communities,14 Life Below Water,0
+11 Sustainable Cities and Communities,15 Life on Land,175
+11 Sustainable Cities and Communities,16 Peace And Justice Strong Institutions,0
+12 Responsible Consumption And Production,01 No Poverty,0
+12 Responsible Consumption And Production,02 Zero Hunger,63
+12 Responsible Consumption And Production,03 Good Health And Well Being,1
+12 Responsible Consumption And Production,04 Quality Education,0
+12 Responsible Consumption And Production,05 Gender Equality,0
+12 Responsible Consumption And Production,06 Clean Water and Sanitation,0
+12 Responsible Consumption And Production,07 Affordable And Clean Energy,33
+12 Responsible Consumption And Production,08 Decent Work And Economic Growth,0
+12 Responsible Consumption And Production,09 Industry Innovation And Infrastructure,0
+12 Responsible Consumption And Production,10 Reduced Inequality,0
+12 Responsible Consumption And Production,11 Sustainable Cities and Communities,8
+12 Responsible Consumption And Production,12 Responsible Consumption And Production,186
+12 Responsible Consumption And Production,13 Climate Action,0
+12 Responsible Consumption And Production,14 Life Below Water,0
+12 Responsible Consumption And Production,15 Life on Land,0
+12 Responsible Consumption And Production,16 Peace And Justice Strong Institutions,0
+13 Climate Action,01 No Poverty,5
+13 Climate Action,02 Zero Hunger,4272
+13 Climate Action,03 Good Health And Well Being,6
+13 Climate Action,04 Quality Education,0
+13 Climate Action,05 Gender Equality,0
+13 Climate Action,06 Clean Water and Sanitation,1243
+13 Climate Action,07 Affordable And Clean Energy,115
+13 Climate Action,08 Decent Work And Economic Growth,0
+13 Climate Action,09 Industry Innovation And Infrastructure,0
+13 Climate Action,10 Reduced Inequality,0
+13 Climate Action,11 Sustainable Cities and Communities,38
+13 Climate Action,12 Responsible Consumption And Production,0
+13 Climate Action,13 Climate Action,20115
+13 Climate Action,14 Life Below Water,6327
+13 Climate Action,15 Life on Land,16264
+13 Climate Action,16 Peace And Justice Strong Institutions,0
+14 Life Below Water,01 No Poverty,0
+14 Life Below Water,02 Zero Hunger,0
+14 Life Below Water,03 Good Health And Well Being,0
+14 Life Below Water,04 Quality Education,0
+14 Life Below Water,05 Gender Equality,0
+14 Life Below Water,06 Clean Water and Sanitation,0
+14 Life Below Water,07 Affordable And Clean Energy,0
+14 Life Below Water,08 Decent Work And Economic Growth,0
+14 Life Below Water,09 Industry Innovation And Infrastructure,0
+14 Life Below Water,10 Reduced Inequality,0
+14 Life Below Water,11 Sustainable Cities and Communities,0
+14 Life Below Water,12 Responsible Consumption And Production,0
+14 Life Below Water,13 Climate Action,6327
+14 Life Below Water,14 Life Below Water,11015
+14 Life Below Water,15 Life on Land,9265
+14 Life Below Water,16 Peace And Justice Strong Institutions,0
+15 Life on Land,01 No Poverty,166
+15 Life on Land,02 Zero Hunger,3979
+15 Life on Land,03 Good Health And Well Being,0
+15 Life on Land,04 Quality Education,0
+15 Life on Land,05 Gender Equality,0
+15 Life on Land,06 Clean Water and Sanitation,1069
+15 Life on Land,07 Affordable And Clean Energy,0
+15 Life on Land,08 Decent Work And Economic Growth,0
+15 Life on Land,09 Industry Innovation And Infrastructure,0
+15 Life on Land,10 Reduced Inequality,0
+15 Life on Land,11 Sustainable Cities and Communities,175
+15 Life on Land,12 Responsible Consumption And Production,0
+15 Life on Land,13 Climate Action,16264
+15 Life on Land,14 Life Below Water,9265
+15 Life on Land,15 Life on Land,49275
+15 Life on Land,16 Peace And Justice Strong Institutions,0
+16 Peace And Justice Strong Institutions,01 No Poverty,0
+16 Peace And Justice Strong Institutions,02 Zero Hunger,0
+16 Peace And Justice Strong Institutions,03 Good Health And Well Being,0
+16 Peace And Justice Strong Institutions,04 Quality Education,0
+16 Peace And Justice Strong Institutions,05 Gender Equality,0
+16 Peace And Justice Strong Institutions,06 Clean Water and Sanitation,0
+16 Peace And Justice Strong Institutions,07 Affordable And Clean Energy,0
+16 Peace And Justice Strong Institutions,08 Decent Work And Economic Growth,0
+16 Peace And Justice Strong Institutions,09 Industry Innovation And Infrastructure,0
+16 Peace And Justice Strong Institutions,10 Reduced Inequality,0
+16 Peace And Justice Strong Institutions,11 Sustainable Cities and Communities,0
+16 Peace And Justice Strong Institutions,12 Responsible Consumption And Production,0
+16 Peace And Justice Strong Institutions,13 Climate Action,0
+16 Peace And Justice Strong Institutions,14 Life Below Water,0
+16 Peace And Justice Strong Institutions,15 Life on Land,0
+16 Peace And Justice Strong Institutions,16 Peace And Justice Strong Institutions,25
